@@ -2,7 +2,7 @@
 
 Engenheiro e desenvolvedor em formação focado em unir o conhecimento prático da **Engenharia de Infraestrutura e Rodoviária** ao desenvolvimento moderno de software.
 
-Atuo na **Strata Engenharia**, onde desenvolvi do zero o **SIP (Sistema Interno de Processamento)**, sistema que realiza todo o fluxo de serviço interno do setor conectando clientes aos seus produtos, alavancando **Inteligência Artificial (AI-Augmented Development)** para acelerar a construção da arquitetura, dashboards analíticos e rotinas de cálculo da plataforma.
+Atuo na **Strata Engenharia**, onde desenvolvi do zero o **SIP (Sistema Interno de Processamento)**, sistema que realiza todo o fluxo de serviço interno do setor conectando clientes aos seus produtos, alavancando com **Inteligência Artificial (AI-Augmented Development)** para acelerar a construção da arquitetura, dashboards analíticos e rotinas de cálculo da plataforma.
 
 ---
 
