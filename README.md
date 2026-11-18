@@ -9,7 +9,7 @@ Atuo na **Strata Engenharia**, onde desenvolvi do zero o **SIP (Sistema Interno 
 ### 🌟 Projeto em Destaque: SIP (Sistema Interno de Processamento)
 *Plataforma desenvolvida do zero para a **Strata Engenharia** para centralizar, auditar e visualizar levantamentos técnicos viários.*
 
-- 🛣️ **Processamento & Auditoria de Dados de Campo:** Automação completa do fluxo de tratamento de dados brutos e auditoria para normas de pavimentação como **ICM** (Índice de Condição da Malha), **LVC** (Levantamento Visual Contínuo) e seus sub produtos (**INV**, **IGG**, **LEAD**, **LVD**), **IRI** (Indice de Irregularidade Longitudinal), **FCH**, ensaios **FWD/TSD**.
+- 🛣️ **Processamento & Auditoria de Dados de Campo:** Automação completa do fluxo de tratamento de dados brutos e auditoria para normas de pavimentação como **ICM** (Índice de Condição da Malha), **LVC** (Levantamento Visual Contínuo) e seus sub produtos (**INV**, **IGG**, **LEAD**, **LVD**), **IRI** (Indice de Irregularidade Longitudinal), **FCH** (Avaliação da deformação permanente em trilhas de roda), ensaios **FWD/TSD** (Deflectometria de impacto que simula a carga de roda, medindo a bacia de deformação elástica).
 - 🗺️ **Módulo Geoespacial & Mapas Interativos:** Visualização cartográfica de alta performance com **Leaflet** e **GeoJSON**, permitindo navegação fluida por rodovias, macro e microrregiões imediatas do IBGE em todo o Brasil.
 - 📊 **Dashboards Analíticos & Relatórios:** Interface reativa para acompanhamento de KPIs, filtros dinâmicos por trecho/lote e geração automatizada de relatórios técnicos executivos.
 - ⚡ **Desenvolvimento Assistido por IA:** Concepção e desenvolvimento de toda a aplicação (React e Node.js) utilizando ferramentas avançadas de IA generativa para acelerar a entrega de valor, trabalhando em conjunto com os desenvolvedores da equipe técnica que sustentam a infraestrutura e o deploy.
@@ -46,6 +46,6 @@ Atuo na **Strata Engenharia**, onde desenvolvi do zero o **SIP (Sistema Interno 
 
 ### 📌 Domínio Técnico
 
-- **Auditoria e Condição da Malha:** ICM, LVC, INV, IGG, LEAD, LVD Deflectometria (FWD/TSD).
+- **Auditoria e Condição da Malha:** ICM, LVC, INV, IGG, LEAD, LVD, MuMeter e Levantamneto Deflectometrico (FWD/TSD).
 - **Cartografia e Inteligência Territorial:** Segmentação de rodovias, limites municipais/estaduais e macrorregiões/microrregiões.
 - **Relatórios Executivos:** Exportação analítica estruturada para apoio à tomada de decisão de engenheiros e gestores.
