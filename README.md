@@ -1,6 +1,6 @@
 # Ricardo Morais
 
-**Desenvolvedor de Soluções** | Graduando em Engenharia e Sistemas de Informação  
+**Desenvolvedor de Soluções** | Graduando em Engenharia e Sistemas de Informação (PUC Minas)
 *Strata Engenharia*
 
 ---
