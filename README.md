@@ -21,7 +21,7 @@ Atuo na **Strata Engenharia**, onde desenvolvi do zero o **SIP (Sistema Interno 
 - **Engenharia Rodoviária Aplicada a Software:** Tradução de manuais, regras de auditoria e métodos de cálculo de campo em lógica de sistema.
 - **Sistemas de Informação Geográfica (GIS):** Análise espacial, cruzamento de coordenadas geodésicas (GPS) com malhas territoriais e otimização geométrica no navegador.
 - **AI-Driven Engineering:** Uso pragmático de IA para modelagem rápida, componentização limpa no frontend e integração de endpoints.
-- **Desenvolvimento de ferramentas externas para processos isolados e que auxiliam o fluxo de trabalho.
+- **Desenvolvimento de ferramentas:** Desenvolvimento de aplicações gerais para processos isolados e que auxiliam o fluxo de trabalho.
 
 ---
 
